@@ -37,7 +37,7 @@ Prerequisites
 Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/music-playlist-backend.git
+   git clone [https://github.com/your-username/music-playlist-backend.git](https://github.com/FULL-STACK-DEVELOPER-18/music-playlist-backend.git)
    cd music-playlist-backend
 
 2. Install dependencies:
